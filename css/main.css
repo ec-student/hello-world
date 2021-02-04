@@ -28,6 +28,10 @@ figure {
   margin-right: 0;
 }
 
+figcaption {
+  margin-top: 1rem;
+}
+
 /* Flexible images */
 
 img {
