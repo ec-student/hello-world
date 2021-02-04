@@ -2,13 +2,13 @@
 
 h1 {
   font-family: "Courier New", monospace;
-  word-spacing: -0.1rem;
+  word-spacing: -0.5rem;
 }
 
 h2 {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.2em;
-  letter-spacing: 0.05rem;
+  letter-spacing: 0.025rem;
   text-transform: uppercase;
 }
 
