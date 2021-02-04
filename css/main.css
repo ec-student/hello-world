@@ -38,6 +38,8 @@ h2 {
 /* Typographic details */
 
 mark {
+  font-family: "Courier New", monospace;
+  font-size: 0.8em;
   background-color: #6ff;
 }
 
