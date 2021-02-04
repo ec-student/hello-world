@@ -35,6 +35,12 @@ h2 {
   text-transform: uppercase;
 }
 
+/* Typographic details */
+
+mark {
+  background-color: #6ff;
+}
+
 /* Figures */
 
 figure {
