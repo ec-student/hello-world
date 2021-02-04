@@ -1,20 +1,15 @@
+/* Headings */
+
 h1 {
-  font-family: sans-serif;
+  font-family: "Courier New", monospace;
 }
 
 h2 {
-  font-family: cursive;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
 }
-
-h3 {
-  font-family: fantasy;
-}
-
-h4 {
-  font-family: monospace;
-}
-
-
 
 /* Flexible images */
 
