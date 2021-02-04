@@ -2,6 +2,7 @@
 
 h1 {
   font-family: "Courier New", monospace;
+  word-spacing: -0.1rem;
 }
 
 h2 {
