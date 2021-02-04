@@ -12,6 +12,13 @@ h2 {
   text-transform: uppercase;
 }
 
+/* Figures */
+
+figure {
+  margin-left: 0;
+  margn-right: 0;
+}
+
 /* Flexible images */
 
 img {
