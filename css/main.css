@@ -1,12 +1,15 @@
 /* Notes
 ---
 16 shades of gray
-0123456789abcdef
+(0123456789abcdef)
 #000 = black
 #666 = mid gray
 #eee = super light gray
 #fff = white
 ---
+16px = 1em/1rem
+- rem vs em Units in CSS
+https://www.digitalocean.com/community/tutorials/css-rem-vs-em-units
 */
 
 /* Layout */
