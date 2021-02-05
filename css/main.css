@@ -34,7 +34,8 @@ header h1 {
   margin-bottom: 0;
 }
 
-header p {
+header p {  
+  line-height: 1.15;
   margin-top: -2rem;
   margin-left: -0.75rem;
 }
