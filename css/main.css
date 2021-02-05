@@ -28,6 +28,10 @@ header {
   border: 1px solid #000;
 }
 
+header p {
+  margin-top: 0;
+}
+
 /* Headings */
 
 h1 {
@@ -45,14 +49,12 @@ h2 {
 /* Paragraphs */
 
 p {
-  margin-top: 0;
+  bottom-top: 0;
 }
 
 /* Typographic details */
 
 mark {
-  position: relative;
-  top: -2.5rem;
   font-family: "Courier New", monospace;
   font-size: 0.85em;
   font-weight: bold;
@@ -61,6 +63,7 @@ mark {
   background-color: #6ff;
   padding: 0.25rem 0.5rem;
   border: 1px solid #000;
+  margin-top: -2.5rem;
 }
 
 /* Figures */
