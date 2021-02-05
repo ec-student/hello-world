@@ -24,7 +24,7 @@ body {
 /* Sections */
 
 header {
-  padding: 0 1rem 1rem;
+  padding: 0 1rem;
   border: 1px solid #000;
 }
 
@@ -40,6 +40,12 @@ h2 {
   font-size: 1.15em;
   letter-spacing: 0.035rem;
   text-transform: uppercase;
+}
+
+/* Paragraphs */
+
+p {
+  margin-top: 0;
 }
 
 /* Typographic details */
