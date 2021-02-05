@@ -21,6 +21,13 @@ body {
   margin: 0 auto;
 }
 
+/* Sections */
+
+header {
+  padding: 1rem;
+  border: 1px solid #000;
+}
+
 /* Headings */
 
 h1 {
@@ -45,6 +52,9 @@ mark {
   text-transform: uppercase;
   background-color: #6ff;
   padding: 0.25rem 0.5rem;
+  border: 1px solid #000;
+  margin-top: -0.5rem;
+  margin-left: -0.5rem;
 }
 
 /* Figures */
