@@ -24,7 +24,7 @@ body {
 /* Sections */
 
 header {
-  padding: 1rem;
+  padding: 0 1rem 1rem;
   border: 1px solid #000;
 }
 
@@ -53,8 +53,7 @@ mark {
   background-color: #6ff;
   padding: 0.25rem 0.5rem;
   border: 1px solid #000;
-  margin-top: -0.5rem;
-  margin-left: -0.5rem;
+  margin-top: -1.5rem;
 }
 
 /* Figures */
