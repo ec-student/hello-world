@@ -28,6 +28,10 @@ header {
   border: 1px solid #000;
 }
 
+header h1 {
+  margin-bottom: 0;
+}
+
 header p {
   margin-top: 0;
 }
