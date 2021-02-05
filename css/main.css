@@ -26,6 +26,7 @@ body {
 header {
   padding: 0 1rem;
   border: 1px solid #000;
+  margin-top: 1rem;
 }
 
 header h1 {
@@ -67,7 +68,7 @@ mark {
   background-color: #6ff;
   padding: 0.25rem 0.5rem;
   border: 1px solid #000;
-  margin-top: -2.5rem;
+  margin-top: -3rem;
 }
 
 /* Figures */
